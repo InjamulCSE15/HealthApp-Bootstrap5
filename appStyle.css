@@ -22,6 +22,10 @@ body {
     font-size: 1.5rem;
 }
 
+.logo {
+    color: var(--secondary);
+}
+
 .btn-0 {
     background-color: var(--secondary);
     padding: 0.5rem;
