@@ -32,10 +32,10 @@ body {
     border-radius: 3rem;
 }
 
-.img {
+/* .img {
     height: 30rem;
     width: 40rem;
-}
+} */
 
 .btn-1 {
     background-color: var(--secondary);
